@@ -37,7 +37,7 @@ contourpy==1.2.1
 cryptography==43.0.0
 cycler==0.12.1
 dacite==1.6.0
-dagshub==0.3.34
+dagshub==0.5.10
 databricks-sdk==0.29.0
 dataclasses-json==0.6.7
 Deprecated==1.2.14
@@ -94,7 +94,7 @@ Markdown==3.6
 MarkupSafe==2.1.5
 marshmallow==3.21.3
 matplotlib==3.9.1
-mlflow==2.15.0
+mlflow==3.5.1
 mlflow-skinny==2.15.0
 multidict==6.0.5
 mypy-extensions==1.0.0

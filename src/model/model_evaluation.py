@@ -136,9 +136,13 @@ def main():
                     mlflow.log_param(param_name, param_value)
             
             # Log model to MLflow
+            # logged_model = mlflow.sklearn.log_model(
+            #     sk_model=clf,
+            #     name="model"
+            # )
             logged_model = mlflow.sklearn.log_model(
                 sk_model=clf,
-                name="model"
+                artifact_path="model"
             )
 
             # Save model info
