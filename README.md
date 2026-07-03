@@ -1,4 +1,3 @@
-```markdown
 # 🚀 MLOps Project: Focused on End-to-End Operations
 
 This repository contains an end-to-end Machine Learning Operations (MLOps) project demonstrating the complete lifecycle of a machine learning model. It covers everything from local experimentation and data versioning to containerized continuous deployment (CI/CD) and cluster monitoring on AWS.
